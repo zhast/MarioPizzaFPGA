@@ -9,3 +9,5 @@ How to play:
 5. Compile (F5) and run (F3)
 6. Press "Enter" in the PS/2 keyboard input box (left hand menu)
 7. Add toppings using using the 'P', 'I', 'Z', and 'A' keys
+
+![game_title](https://user-images.githubusercontent.com/20625321/135186209-e3391ff7-5c6f-4b35-a6a6-2060f0075e05.png)
