@@ -10,5 +10,8 @@ How to play:
 6. Press "Enter" in the PS/2 keyboard input box (left hand menu)
 7. Add toppings using using the 'P', 'I', 'Z', and 'A' keys
 
+Features: keyboard & audio interrupts, image double-buffering, and a dash of nostalgia.  
+
+Sample Gameplay: 
 ![game_demo](https://github.com/zhast/MarioPizzaFPGA/blob/main/uEcySHwOEC.gif)
 
