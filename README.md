@@ -1,5 +1,6 @@
-# MarioPizzaFPGA
-A game where you build a pizza with power-up toppings in CPUlator
+# Mario's Pizzeria Arcade Game for DE1-SoC
+A game where you build a pizza with power-up toppings in CPUlator simulator.
+Built with Abisha in C language for the ECE243 Computer Organization course.
 
 How to play: 
 1. Visit https://cpulator.01xz.net/
